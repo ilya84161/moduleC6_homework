@@ -1,0 +1,29 @@
+.alert {
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+  text-align: left;
+  max-width:75%;
+  min-width:150px;
+  float:  left;
+  clear: left;
+  word-break: break-all;
+}
+.mesin {
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: blueviolet;
+  background-color: #dff0d8;
+  text-align: right;
+  max-width:75%;
+  min-width:150px;
+  float:  right;
+  clear: right;
+  word-break: break-all;
+}
+.probel {
+  height: 50px;
+}
